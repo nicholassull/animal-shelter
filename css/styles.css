@@ -1,0 +1,53 @@
+body {
+  background-color: rgb(236, 231, 186);
+}
+
+h1 {
+  text-align: center;
+}
+
+.animals {
+  margin: auto;
+}
+
+.animals div {
+  float: left;
+  width: 23%;
+  padding: 5px;
+  margin: 2px;
+  box-sizing: border-box;
+  border: solid grey 2px;
+  text-align: center;
+  height: 600px;
+}
+
+.animals img {
+  width: 150px
+}
+
+.sheep {
+  color: green;
+}
+
+.koala {
+  color: red;
+}
+
+.sugar-glider {
+  color: blue
+}
+
+.guinea-pig {
+  color: purple;
+}
+
+.animals .disclaimer {
+  border: none;
+  font-style: italic;
+  font-size: 0.75em;
+  width: 100%;
+}
+
+.contact-info {
+  text-align: center;
+}
